@@ -162,6 +162,10 @@ NUL>index.tsx
 
 ```
 
+- @storybook/theming
+- instalação do Styled-Components/Prettier/Stylelint
+- Estilo global
+
 ### What I learned
 
 ### References
